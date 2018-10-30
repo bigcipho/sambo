@@ -1,0 +1,8 @@
+[23-Oct-2018 20:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in C:\inetpub\wwwroot\New folder\bloodBank2-20181016T213222Z-001\bloodBank2\signup.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\New folder\bloodBank2-20181016T213222Z-001\bloodBank2\signup.php on line 19
+[23-Oct-2018 21:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in C:\inetpub\wwwroot\New folder\bloodBank2-20181016T213222Z-001\bloodBank2\signup.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\New folder\bloodBank2-20181016T213222Z-001\bloodBank2\signup.php on line 19
